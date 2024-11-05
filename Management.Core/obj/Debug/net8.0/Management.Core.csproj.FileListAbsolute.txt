@@ -1,0 +1,33 @@
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\bin\Debug\net8.0\Management.Core.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\obj\Debug\net8.0\Management.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\obj\Debug\net8.0\Management.Core.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\obj\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\obj\Debug\net8.0\refint\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\obj\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Core\obj\Debug\net8.0\ref\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\bin\Debug\net8.0\Management.Core.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\obj\Debug\net8.0\Management.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\obj\Debug\net8.0\Management.Core.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\obj\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\obj\Debug\net8.0\refint\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\obj\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Core\obj\Debug\net8.0\ref\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\bin\Debug\net8.0\Management.Core.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\obj\Debug\net8.0\Management.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\obj\Debug\net8.0\Management.Core.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\obj\Debug\net8.0\Management.Core.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\obj\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\obj\Debug\net8.0\refint\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\obj\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Core\obj\Debug\net8.0\ref\Management.Core.dll

@@ -1,0 +1,51 @@
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\bin\Debug\net8.0\Management.Business.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\bin\Debug\net8.0\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\bin\Debug\net8.0\Management.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\bin\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\bin\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\Management.Business.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\Management.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\Management.Business.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\Management.Business.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\Management.Business.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\Manageme.E283EE77.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\refint\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\Management.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Business\obj\Debug\net8.0\ref\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\bin\Debug\net8.0\Management.Business.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\bin\Debug\net8.0\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\bin\Debug\net8.0\Management.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\bin\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\bin\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\Management.Business.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\Management.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\Management.Business.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\Management.Business.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\Management.Business.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\Manageme.E283EE77.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\refint\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\Management.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Business\obj\Debug\net8.0\ref\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\bin\Debug\net8.0\Management.Business.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\bin\Debug\net8.0\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\bin\Debug\net8.0\Management.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\bin\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\bin\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\Management.Business.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\Management.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\Management.Business.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\Management.Business.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\Management.Business.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\Manageme.E283EE77.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\refint\Management.Business.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\Management.Business.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Business\obj\Debug\net8.0\ref\Management.Business.dll

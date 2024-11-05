@@ -1,0 +1,51 @@
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\bin\Debug\net8.0\Management.Data.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\bin\Debug\net8.0\Management.Data.runtimeconfig.json
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\bin\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\bin\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Management.Data.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Management.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Management.Data.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Management.Data.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Management.Data.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Manageme.D64A0914.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\refint\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\Management.Data.genruntimeconfig.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management\Management.Data\obj\Debug\net8.0\ref\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\bin\Debug\net8.0\Management.Data.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\bin\Debug\net8.0\Management.Data.runtimeconfig.json
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\bin\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\bin\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Management.Data.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Management.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Management.Data.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Management.Data.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Management.Data.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Manageme.D64A0914.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\refint\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\Management.Data.genruntimeconfig.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management - Yedek\Management.Data\obj\Debug\net8.0\ref\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\bin\Debug\net8.0\Management.Data.deps.json
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\bin\Debug\net8.0\Management.Data.runtimeconfig.json
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\bin\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\bin\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\bin\Debug\net8.0\Management.Core.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\bin\Debug\net8.0\Management.Core.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Management.Data.csproj.AssemblyReference.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Management.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Management.Data.AssemblyInfoInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Management.Data.AssemblyInfo.cs
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Management.Data.csproj.CoreCompileInputs.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Manageme.D64A0914.Up2Date
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\refint\Management.Data.dll
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Management.Data.pdb
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\Management.Data.genruntimeconfig.cache
+C:\Users\egesu\OneDrive\Masaüstü\Management İskelet\Management.Data\obj\Debug\net8.0\ref\Management.Data.dll
